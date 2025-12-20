@@ -3,10 +3,10 @@
 
 # Homebrew formula for phos - Universal log colorizer
 class Phos < Formula
-  desc "Universal log colorizer with built-in support for 99 programs"
+  desc "Universal log colorizer with built-in support for 98 programs"
   homepage "https://github.com/Hydepwns/phos"
-  url "https://github.com/Hydepwns/phos/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "fe0fcfaf4a5aff06bfb8750716ff9ad1e5e3445f55738d821c956cd0f059c246"
+  url "https://github.com/Hydepwns/phos/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "febc203f67053dc0b2acd436a198c9cf39e3770966c8fa080e7cab068f58c6a9"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/Hydepwns/phos.git", branch: "main"
 
