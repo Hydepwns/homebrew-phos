@@ -5,8 +5,8 @@
 class Phos < Formula
   desc "Universal log colorizer with built-in support for 99 programs"
   homepage "https://github.com/Hydepwns/phos"
-  url "https://github.com/Hydepwns/phos/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "1f04fa4a51cfb4eae39d8644eca2bbbec34b9181c04d8d35ba2ee0bf3b6bb0bf"
+  url "https://github.com/Hydepwns/phos/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "c0ec0a72b6f46f1438d5550fc1899a69bcd2580093866409139a941414ec79ea"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/Hydepwns/phos.git", branch: "main"
 
